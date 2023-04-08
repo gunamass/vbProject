@@ -1,0 +1,124 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+ 
+    background-image: url(assat/pexels-skylar-kang-6368790.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+}
+
+
+.about12{
+    /* margin-left: 50px;
+    margin-top: 17px; */
+}
+.about1{
+    display: flex;
+    
+    height: 80px;
+    width: auto;
+    background-color: rgba(192, 233, 238, 0.486);
+    
+ }
+ img{
+    border-radius: 100%;
+    height: 395px;
+    width: 360px;
+    margin-left: 240px;
+    position: absolute;
+    /* margin-top: 0px; */
+    /* border: 2px solid white; */
+ }
+ /* .g{ */
+    /* font-size: 150px; */
+    /* margin-top: -280px; */
+    /* position: absolute; */
+    /* color: rgba(8, 8, 245, 0.726); */
+ /* } */
+ p{
+    position: absolute;
+    left: 70px;
+    top: 50px;
+    color: white;
+/* display: flex; */
+/* justify-content: center; */
+/* align-items: center; */
+    font-size: 40px;
+    /* margin-top: -340px; */
+    /* margin-left: 100px; */
+    font-family:cursive ;
+    letter-spacing: 7px;
+    /* word-space: 4px; */
+    /* color: rgba(127, 207, 221, 0.767); */
+ }
+ .topic{
+    display: flex;
+    flex: 1;
+ }
+ .navi{
+    display: flex;
+    flex: 1;
+    justify-content: right;
+    align-items: center;
+   
+ }
+.about11{
+   
+ list-style: none;
+/* display: inline-block; */
+
+/* position: absolute; */
+ /* margin-left: 1000px; */
+ font-size: 20px;
+}
+li{
+    margin-left: 10px;
+    
+    display: inline-block;
+}
+.h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 6px;
+    position: absolute;
+    
+    /* margin-left: 10px; */
+
+}
+/* .rr{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    align-items: center; */
+/* } */
+.full{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: red; */
+}
+.mass{
+   
+    /* justify-content: center; */
+    /* align-items: center; */
+    background-color: rgba(0, 0, 0, 0.623);
+    height: 400px;
+    width: 500px;
+/* display: flex; */
+    /* border: 4px solid rgb(180, 176, 176); */
+    border-radius:590px ;
+    /* margin-left: 400px; */
+    /* margin-top: 100px; */
+    position:absolute;
+    
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;;
+}
+footer{
+    background-color: black;
+    height: 29px;
+}

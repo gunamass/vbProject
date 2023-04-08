@@ -1,0 +1,132 @@
+body{
+    /* background-color: rgba(0, 0, 0, 0.411); */
+    background-image: url(assat/ppp.jpg);
+    /* background-size: cover; */
+}
+.div0{
+height: 100px;
+width: 1500px;
+background-color: rgba(39, 39, 41, 0.452);
+}
+.ul0{
+    list-style: none;
+    display: flex;
+   position: absolute;
+    margin-left: 1000px;
+    font-size: 20px;
+    /* color: bisque; */
+}
+a{
+    color: bisque;
+}
+del{
+    /* color: black; */
+}
+.li0{
+    margin-left: 50px;
+    margin-top: 17px;
+    /* color: bisque; */
+}
+.h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 6px;
+    position: absolute;
+    margin-left: 10px;
+    color: azure;
+
+}
+ul{
+    list-style: none;
+}
+del{
+    /* color: rgb(167, 167, 25); */
+}
+img{
+    height: 300px;
+    width: 300px;
+    display: flex;
+    
+}
+.div1:hover{
+    /* color: white; */
+    transform:scale(1.1);
+}
+.div1{
+    margin-left: 50px;
+    margin-top: 50px;
+/* border: 4px solid black; */
+height: 500px;
+width: 300px;
+
+    display: flex;
+}
+.ul1{
+    margin-left: -270px;
+    margin-top: 340px;
+    font-size: 25px;
+    
+}
+.li1{
+    font-family:cursive;
+    color: bisque;
+}
+.div2{
+    margin-left: 400px;
+    margin-top: -510px;
+    /* border: 4px solid black; */
+    height: 500px;
+width: 300px;
+    display: flex;
+}
+.div2:hover{
+    /* color: white; */
+    transform:scale(1.1);
+}
+.div3:hover{
+    /* color: white; */
+    transform:scale(1.1);
+}
+.div4:hover{
+    /* color: white; */
+    transform:scale(1.1);
+}
+.div3{
+    margin-left: 750px;
+    margin-top: -510px;
+    height: 500px;
+width: 300px;
+    display: flex;
+    /* border: 4px solid black; */
+}
+.div4{
+    margin-left: 1130px;
+    margin-top: -510px;
+    height: 500px;
+width: 300px;
+    display: flex;
+    /* border: 4px solid black; */
+}
+.g{
+    font-size: 40px;
+    margin-top: 50px;
+    margin-left: 600px;
+    color: rgb(10, 190, 235);
+}
+.g1{
+    font-size: 40px;
+    /* margin-top: -50px; */
+    margin-left: 20px;
+    color: rgb(247, 36, 53);
+}
+.g2{
+    font-size: 40px;
+    /* margin-top: 0px; */
+    margin-left: 20px;
+    color: white;
+}
+.g3{
+    font-size: 40px;
+    /* margin-top: -50px; */
+    margin-left: 20px;
+    color: rgb(5, 248, 5);
+}

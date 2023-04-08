@@ -1,0 +1,58 @@
+body{
+    background-image: url(assat/raja.jpg);
+    background-size: cover;
+}
+.home12{
+    margin-left: 50px;
+    margin-top: 17px;
+}
+.home1{
+    height: 80px;
+    width: 1500px;
+    background-color: rgba(192, 233, 238, 0.486);
+    
+ }
+.home11{
+ list-style: none;
+ display: flex;
+position: absolute;
+ margin-left: 1000px;
+ font-size: 20px;
+}
+.h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 6px;
+    position: absolute;
+    margin-left: 10px;
+
+}
+.g{
+    font-size: 40px;
+    /* margin-top: 150px; */
+    margin-left: 20px;
+    color: rgb(10, 190, 235);
+}
+.g1{
+    font-size: 40px;
+    /* margin-top: 250px; */
+    margin-left: 20px;
+    color: rgb(247, 36, 53);
+}
+.g2{
+    font-size: 40px;
+    /* margin-top: 250px; */
+    margin-left: 20px;
+    color: rgb(29, 5, 7);
+}
+.g3{
+    font-size: 40px;
+    /* margin-top: 200px; */
+    margin-left: 20px;
+    color: rgb(5, 248, 5);
+}
+img{
+    height: 300px;
+margin-top: 200px;
+    width: 300px;
+    margin-left: 30px;
+}

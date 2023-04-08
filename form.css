@@ -1,0 +1,104 @@
+.o{
+    border: 2px solid black;
+    margin-left: 300px;
+    position: absolute;
+    margin-right: 400px;
+    /* margin-bottom: 0px; */
+    padding: 90px;
+    margin-top: 25px;
+    box-shadow: 0px  0px 8px white;
+    border-radius: 50px;
+}
+body{
+    background-image: url(assat/raja.jpg);
+    background-repeat: no-repeat;
+/* background-size:  ; */
+    background-size: cover;
+}
+label{
+    color:aquaq;
+    text-shadow: 2px 1px 0px aqua;
+    /* font-family:Arial, Helvetica, sans-serif; */
+    /* font-weight: 600; */
+}
+.k{
+    height: 25px;
+    width: 350px;
+}
+
+.t{
+    /* position: relative; */
+}
+.f1{
+    position: absolute;
+    margin-top: -300px;
+    margin-left: 300px;
+
+    /* background-color: black; */
+}
+.f2{
+    position: absolute;
+    margin-top: -100px;
+    margin-left: 84px;
+    /* background-color: black; */
+}
+.f3{
+    position: absolute;
+    margin-top: -293px;
+    
+    margin-left: 200px;
+    /* background-color: black; */
+}
+.f4{
+    position: absolute;
+    margin-top: -370px;
+    
+    margin-left: 200px;
+    /* background-color: black; */
+}
+
+
+.f6{
+    position: absolute;
+    margin-top:-330px;
+    
+    margin-left: 200px;
+    /* background-color: black; */
+}
+.f7{
+    position: absolute;
+    margin-left: 200px;
+    margin-top: -56px;
+    /* background-color: black; */
+}
+.f{
+   
+    position: absolute;
+    margin-left: 200px; 
+    margin-top: -410px;
+}
+button{
+    margin-left: 300px;
+    margin-top: 50px;
+}
+input{
+    border-radius: 100px;
+    background-color: rgba(0, 0, 0, 0.507);
+    box-shadow: 0px 0px 10px ;
+    padding-left: 20px;
+    color: white;
+}
+button{
+    border-radius: 100px;
+    background-color: black;
+    color: white;
+}
+option{
+    background-color: black;
+    color: white;
+}
+select{
+    
+    background-color: black;
+    color: white;
+}

@@ -1,0 +1,97 @@
+body{
+    background-image:url(assat/mapla.jpg);
+    background-size: cover;
+    /* opacity: 0.5; */
+}
+.home1{
+       height: 80px;
+       width: 1500px;
+       background-color: rgba(192, 233, 238, 0.486);
+       
+    }
+.home11{
+    list-style: none;
+    display: flex;
+   position: absolute;
+    margin-left: 1000px;
+    font-size: 20px;
+}
+.h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top: 6px;
+    position: absolute;
+    margin-left: 10px;
+
+}
+.home12{
+    margin-left: 50px;
+    margin-top: 17px;
+}
+.h11{
+    margin-left: 100px;
+    /* margin-top: 200px; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: 40px;
+    display: flex;
+    /* letter-spacing: 1px; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* text-align: center; */
+
+}
+p{
+    color: white;
+    margin-top: 100px;
+    text-align: center;
+
+    /* margin-right: 10px; */
+}
+.home13{
+    background-color: rgba(0, 0, 0, 0.432);
+    height: 400px;
+    width: 800px;
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    margin-top: 100px;
+    margin-left: 350px;
+    border-radius: 15px;
+}
+span{
+    color: rgba(170, 241, 241, 0.788);
+}
+.sp1{
+    background-color: rgba(157, 245, 194, 0.815);
+    padding: 5px;
+    color: black;
+}
+p{
+    color: rgba(59, 205, 231, 0.815);
+    font-size: 20px;
+    margin-top: -20px;
+}
+.g{
+    font-size: 40px;
+    margin-top: 50px;
+    margin-left: 600px;
+    color: rgb(10, 190, 235);
+}
+.g1{
+    font-size: 40px;
+    /* margin-top: -50px; */
+    margin-left: 30px;
+    color: rgb(247, 36, 53);
+}
+.g2{
+    font-size: 40px;
+    margin-top: -50px;
+    margin-left: 20px;
+    color: rgb(29, 5, 7);
+}
+.g3{
+    font-size: 40px;
+    margin-top: -50px;
+    margin-left: 20px;
+    color: rgb(5, 248, 5);
+}
