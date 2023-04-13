@@ -1,0 +1,243 @@
+
+.container{
+    /* background-color: rgb(160, 14, 14); */
+    /* height: 400px; */
+    /* width: 800px; */
+}
+.row{
+    /* background-color: rgb(253, 253, 18); */
+    /* height: 300px;
+    width: 400px; */
+}
+body{
+  overflow-x: hidden !important;
+  /* box-shadow: 0px 0px 10px; */
+  /* background:url(./assat/11/1.jpg) ; */
+  /* background-size: contain; */
+}
+/* .guna{
+background: url(./assat/t10.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+} */
+.img1{
+  height: 50px;
+  width: 50px;
+  margin-left: 30px;
+}
+.ce{
+  /* padding-left: 20px; */
+}
+header{
+  
+  background-color:white;
+  
+}
+.r1{
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: blue;
+  text-shadow: 2px 0px 10px;
+}
+.col1{
+  /* color: rgb(21, 236, 118); */
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+  letter-spacing: 2px;
+  /* word-spacing: 3px; */
+  border: 2px solid rgb(226, 108, 40);
+  border-top-right-radius: 100px;
+  border-bottom-left-radius:100px ;
+  background-color: white;
+  height: 400px;
+  padding-left: 30px;
+   box-shadow: 0px 0px 20px;
+
+
+}
+.col1:hover{
+  transform: scale(0.9);
+
+}
+.img5{
+width: 100%;
+ box-shadow: 0px 0px 20px;
+height: 500px;
+}
+nav{
+  position: sticky;
+  top: 0;
+  background-color: rgba(59, 211, 211, 0.459);
+}
+.h3{
+color: rgb(73, 148, 153);
+}
+.h3:hover{
+  transform: scalex(0.9);
+  color: rgb(45, 82, 201);
+}
+.img2{
+  height: 400px;
+  width: 500px;
+  border: 2px solid sienna;
+  /* border-radius: 20px; */
+   box-shadow: 0px 0px 20px;
+  border-top-right-radius: 100px;
+  border-bottom-left-radius:100px ;
+  /* box-shadow: 0px 0px 5px; */
+}
+.img2:hover{
+  transform: scale(0.9);
+}
+.img6{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  border: 2px solid rgb(250, 247, 247);
+   box-shadow: 0px 0px 40px;
+}
+.img6:hover{
+  transform: scale(1.3);
+}
+.nav1{
+      /* background-color: black; */
+}
+
+/* li{
+  margin-left: 15px;
+} */
+ul{
+  display: flex;
+  justify-content: space-between;
+  /* color: bisque; */
+  list-style: none;
+  /* display: flex; */
+  
+}
+.img3{
+  height: 300px;
+  width: 300px;
+  border: 2px solid brown;
+  border-radius: 30px;
+   box-shadow: 0px 5px 20px;
+  
+}
+.e3{
+  text-shadow: 2px 0px 10px;
+}
+.img3:hover{
+  transform: scale(0.9);
+}
+.h3.h3:hover{
+  transform: scale(0.9);
+}
+.h4:hover{
+  transform: scale(0.9);
+  color: rgb(185, 143, 7);
+}
+.h4{
+  padding-left: 35px;
+}
+.img7{
+  
+  height: 400px;
+  width: 400px;
+  border-radius: 50%;
+  box-shadow: 0px 1px 20px;
+  /* padding-left: 20px; */
+}
+.h41{
+  color: blue;
+  animation-name: h41;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  /* padding-left: 30px; */
+}
+@keyframes h41{
+0%{
+  text-shadow: 0px 0px 10px rgb(192, 128, 128);
+  color: black;
+}
+10%{
+  text-shadow: 0px 0px 10px rgb(255, 102, 0);
+}
+20%{
+
+  text-shadow: 0px 0px 10px rgb(9, 255, 0);
+}
+30%{
+  text-shadow: 0px 0px 10px rgb(160, 156, 134);
+}
+40%{
+  text-shadow: 0px 0px 10px rgb(22, 22, 21);
+}
+50%{
+  text-shadow: 0px 0px 10px gold;
+}
+60%{
+  text-shadow: 0px 0px 10px rgb(43, 255, 0);
+}
+70%{
+  text-shadow: 0px 0px 10px rgb(255, 248, 248);
+}
+80%{
+  text-shadow: 0px 0px 10px rgb(252, 38, 155);
+}
+90%{
+  text-shadow: 0px 0px 10px rgb(98, 0, 255);
+}
+100%{
+  text-shadow: 0px 0px 10px rgb(81, 255, 0);
+}
+
+}
+.y1{
+  /* padding-left: 20px; */
+  color: rgb(24, 173, 173);
+  border: 2px dotted rgb(250, 250, 249);
+  border-radius:10px;
+  height: 100px;
+  /* background-color: aqua; */
+}
+.y1:hover{
+transform: scale(0.9);
+/* background-color: aqua; */
+color: black;
+}
+.h41:hover{
+  transform: scale(1.1);
+}
+.img7:hover{
+  transform: scale(1.1);
+  /* background-color: blue; */
+  color: blue;
+}
+.img10{
+  height: 200px;
+  width: 150px;
+  padding-top: 30px;
+}
+.col42{
+  /* background-color: black; */
+  height: 400px;
+}
+
+.gmail{
+  border: 2px solid black;
+  border-radius: 20px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  
+}
+.i{
+  font-size: 50px;
+}
+
+
+.plani{
+  height: 300px;
+  width: 500px;
+  border-radius: 60px;
+  background: linear-gradient(30deg,rgb(0, 255, 64), rgb(255, 102, 0),rgb(223, 10, 194));
+}
+.i1{
+  font-size: 30px;
+}
